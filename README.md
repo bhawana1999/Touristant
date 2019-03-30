@@ -9,7 +9,6 @@ Device for Indoor Localization -
 
 In this, the WiFi signal strength of at least three WiFi is used to find the exact location of the subject to be tracked. This also has compass functionalities that can be used to know the orientation of the subject.
 
-
 Android Application 
 
 [Presentation Link](https://slides.com/anmolg/deck-2#/2/2)
