@@ -2,7 +2,6 @@ import subprocess
 import serial
 p = serial.Serial("/dev/serial0",9600,timeout=0.5)
 
-
 while 1:
   with open("output.txt" , "w+") as output:
     subprocess.call(["python", "./xx.py"], stdout = output);
