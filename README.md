@@ -12,3 +12,6 @@ In this, the WiFi signal strength of at least three WiFi is used to find the exa
 Android Application 
 
 [Presentation Link](https://slides.com/anmolg/deck-2#/2/2)
+
+
+[Paper Link](http://bvicam.ac.in/news/INDIACom%202019%20Proceedings/Main/papers/2074.pdf)
